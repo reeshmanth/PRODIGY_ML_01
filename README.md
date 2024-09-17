@@ -25,7 +25,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 How to Run
 Clone the repository:
-git clone https://github.com/reeshmanth/house-price-prediction.git
+git clone https://github.com/reeshmanth/PRODIGY_ML_01.git
 Navigate to the project directory:
 cd House Price Prediction
 Run the main script using Python:
